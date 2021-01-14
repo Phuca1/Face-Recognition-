@@ -1,0 +1,2 @@
+source activate face
+python lib/pre_process/extract_face_from_video.py
